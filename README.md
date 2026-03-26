@@ -1,7 +1,11 @@
+<p align="center">
+  <img src="https://img1.pic.in.th/images/151849a709b65f87b57232.png" alt="Banner" width="100%"/>
+</p>
+
 ## Hi there 👋
 
 <!--
-**N-Dark/n-dark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**N-Dark/N-Dark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+—
